@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <title>Hello</title>
+  </head>
+
+  <body> bgcolor="cce7ff">
+    <center>
+      <br><br>
+
+      <h1>MIKAELLA</h1>
+      <h3>HELLO</h3>
+
+      <p>
+        i love keshi
+      </p>
+      <br>
+
+      <form>
+        <input type="button" value="Enter">
+      </form>
+      <br> <br>
+    </center>
+  </body>
+</html>
+  
